@@ -5,7 +5,7 @@ A simple game made using HTML, CSS and JavaScript Only.
  https://cleverguns.github.io/Simple-JS-Game/ 
 
 ### About
-In this game you have to control a avatar, while dodging blocks falling. Your score is increased when a block reaches the bottom.
+In this game you have to control the avatar using WASD control key, while dodging blocks falling. Your score is increased when a block reaches the bottom.
 
 ### Tech I used
 Simple game made using HTML, CSS and JavaScript, I also added Animate.css for Avatar Entrance Effect and the Howler.js for Web audio Api for Background Music
